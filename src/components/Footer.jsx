@@ -38,7 +38,7 @@ const Footer = ()=> {
           <p id="responseMessage"></p>
         </div>
       </div>
-      <div className="credit">created by <span>benaIct depertments</span> | &copy; all rights reserved </div>
+      <div className="credit">created by <span>benaIct department</span> | &copy; all rights reserved </div>
     </section>
     );
   }

@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
   }
   
   :root {
@@ -45,10 +47,10 @@
   /*************************************************ASIDE***********************************************************/
   .contact__aside {
     background: #6c63ff;
-    padding: 2rem;
+    padding: 3rem;
     border-radius: 1rem;
     position: relative;
-    bottom: 10rem;
+    bottom: 7rem;
   }
   
   .aside__image {
