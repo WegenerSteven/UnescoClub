@@ -25,7 +25,7 @@ const Footer = ()=> {
           <a href="#home" className="links"><i className='bx bx-right-arrow-alt'></i> home</a>
           <a href="#about" className="links"><i className='bx bx-right-arrow-alt'></i>about</a>
           <a href="#events" className="links"><i className='bx bx-right-arrow-alt'></i> Events</a>
-          <a href="/Sign-login/sign.html" target="_blank" className="links"><i className='bx bx-right-arrow-alt'></i> Portal</a>
+          <a href="#member-portal" target="_blank" className="links"><i className='bx bx-right-arrow-alt'></i> Portal</a>
           <a href="#contact" className="links"><i className='bx bx-right-arrow-alt'></i> contacts</a>
         </div>
         <div className="box">
